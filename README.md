@@ -2,9 +2,11 @@
 
 ## About Me
 
-As a seasoned professional in Data Science and Data Engineering, I specialize in leveraging advanced machine learning, multimodal learning, and generative AI to solve complex business challenges. My expertise includes deploying models like GPT, BERT, and LLaMA, integrating LangChain with Retrieval-Augmented Generation (RAG) for enhanced contextual responses, and building interactive applications using frameworks like Hugging Face and Streamlit. I excel in predictive analytics, time-series forecasting, and statistical modeling, delivering impactful insights through advanced visualizations in Tableau and Power BI.
+As a Data Science and Data Engineering professional, I specialize in machine learning, multimodal learning, and generative AI to drive impactful business solutions. My expertise includes deploying advanced AI models such as GPT, BERT, and LLaMA, integrating LangChain with Retrieval-Augmented Generation (RAG) for enhanced contextual intelligence, and developing interactive applications using Hugging Face and Streamlit. I have a strong background in predictive analytics, time-series forecasting, and statistical modeling, delivering actionable insights through advanced visualizations in Tableau and Power BI.
 
-In Data Engineering, I design and implement scalable data pipelines, automate workflows, and integrate systems to streamline operations. With a strong foundation in SQL, Python, Hadoop, and cloud platforms like AWS and Azure, I lead the development of robust ETL processes and transition data solutions into real-time APIs. My efforts drive efficiency, improve data accessibility, and enable data-driven decision-making, ensuring alignment with organizational goals.
+On the data engineering side, I design and implement scalable data pipelines, automate workflows, and integrate enterprise systems to streamline operations. With a strong foundation in SQL, Python, Hadoop, and cloud platforms like AWS and Azure, I lead the development of robust ETL processes and enable the transition to real-time APIs. My work focuses on enhancing efficiency, optimizing data accessibility, and enabling data-driven decision-making, ensuring alignment with organizational objectives and business growth.
+
+I am passionate about leveraging AI and data-driven solutions to drive innovation, scalability, and operational excellence across industries.
 
 ---
 
